@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Sophia',
-		photo: '/images/sophia.jpg',
+		photo: '//images/sophia.jpg',
 		scores: [
 			'2',
 			'3',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Olivia',
-		photo: '/images/olivia.jpg',
+		photo: '//images/olivia.jpg',
 		scores: [
 			'5',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Emma',
-		photo: '/images/emma.jpg',
+		photo: '//images/emma.jpg',
 		scores: [
 			'2',
 			'1',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ava',
-		photo: '/images/ava.jpg',
+		photo: '//images/ava.jpg',
 		scores: [
 			'5',
 			'4',
@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Isabella',
-		photo: '/images/isabella.jpg',
+		photo: '//images/isabella.jpg',
 		scores: [
 			'2',
 			'3',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Jackson',
-		photo: '/images/jackson.jpg',
+		photo: '//images/jackson.jpg',
 		scores: [
 			'5',
 			'5',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Liam',
-		photo: '/images/liam.jpg',
+		photo: '//images/liam.jpg',
 		scores: [
 			'5',
 			'5',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Noah',
-		photo: '/images/noah.jpg',
+		photo: '//images/noah.jpg',
 		scores: [
 			'4',
 			'3',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Aiden',
-		photo: '/images/aiden.jpg',
+		photo: '//images/aiden.jpg',
 		scores: [
 			'1',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Lucas',
-		photo: '/images/lucas.jpg',
+		photo: '//images/lucas.jpg',
 		scores: [
 			'2',
 			'1',
