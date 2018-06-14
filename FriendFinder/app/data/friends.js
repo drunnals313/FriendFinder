@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Lucas',
-		photo: '.../images/lucas.jpg',
+		photo: 'https://thumb1.shutterstock.com/display_pic_with_logo/101595/213159280/stock-photo-portrait-of-young-handsome-man-smiling-outdoor-213159280.jpg',
 		scores: [
 			'2',
 			'1',
