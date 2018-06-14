@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Liam',
-		photo: '.../images/liam.jpg',
+		photo: 'images/liam.jpg',
 		scores: [
 			'5',
 			'5',
