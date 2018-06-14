@@ -1,17 +1,18 @@
 {
   "name": "FriendFinder",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Find some friends based on chakra balance",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/drunnals313/FriendFinder.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["FriendFinder"],
+  "author": "Dave Runnals",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/drunnals313/FriendFinder/issues"
