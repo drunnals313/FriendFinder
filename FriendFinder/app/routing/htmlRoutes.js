@@ -1,7 +1,7 @@
 
 var path = require('path');
 
-es
+
 module.exports = function(app) {
 	
 	app.get('/', function(req, res) {
