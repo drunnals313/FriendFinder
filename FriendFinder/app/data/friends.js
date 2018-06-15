@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Sophia',
-		photo: '.../images/sophia.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'2',
 			'3',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Olivia',
-		photo: '.../images/olivia.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'5',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Emma',
-		photo: '.../images/emma.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'2',
 			'1',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ava',
-		photo: '.../images/ava.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'5',
 			'4',
@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Isabella',
-		photo: '.../images/isabella.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'2',
 			'3',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Jackson',
-		photo: '.../images/jackson.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'5',
 			'5',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Liam',
-		photo: 'images/liam.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'5',
 			'5',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Noah',
-		photo: '.../images/noah.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'4',
 			'3',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Aiden',
-		photo: '.../images/aiden.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'1',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Lucas',
-		photo: '.../images/aiden.jpg',
+		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
 		scores: [
 			'2',
 			'1',
