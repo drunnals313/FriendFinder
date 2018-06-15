@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Sophia',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/sophia.jpg?raw=true',
 		scores: [
 			'2',
 			'3',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Olivia',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/olivia.jpg?raw=true',
 		scores: [
 			'5',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Emma',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/emma.jpg?raw=true',
 		scores: [
 			'2',
 			'1',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ava',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/ava.jpg?raw=true',
 		scores: [
 			'5',
 			'4',
@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Isabella',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/isabella.jpg?raw=true',
 		scores: [
 			'2',
 			'3',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Jackson',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/jackson.jpg?raw=true',
 		scores: [
 			'5',
 			'5',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Liam',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/liam.jpg?raw=true',
 		scores: [
 			'5',
 			'5',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Noah',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/noah.jpg?raw=true',
 		scores: [
 			'4',
 			'3',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Aiden',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/aiden.jpg?raw=true',
 		scores: [
 			'1',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Lucas',
-		photo: 'https://www.pexels.com/photo/man-young-happy-smiling-91227/',
+		photo: 'https://github.com/drunnals313/FriendFinder/blob/master/FriendFinder/images/lucas.jpg?raw=true',
 		scores: [
 			'2',
 			'1',
