@@ -27,3 +27,5 @@ Application is deployed to Heroku (https://fathomless-crag-68766.herokuapp.com/)
 * Question 8: You trust your intuition.
 * Question 9: You feel at peace.
 * Question 10: You take time to recharge yourself.
+
+* Matching Method: Respond to statements/ questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). When the answers are submitted, the system matches other users with the closest response to determine the best match.
